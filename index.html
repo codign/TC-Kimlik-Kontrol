@@ -1,0 +1,14 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <label for="tckimlikno"><strong>TC Kimlik No : </strong></label>
+  <input name="tckimlikno" type="text" id="tckimlikno" onblur="tckimlikkontorolu(this); " maxlength="11" />
+  <span id="sonuc"></span>
+</form>
+<strong>Not:</strong> TC Kimlik no giriniz ve metin giriş alanı dışına tıklayınız.
+<script async src="tcvalid.js"></script>
+</body>
+</html>
