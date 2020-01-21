@@ -1,5 +1,5 @@
 # TC-Kimlik-Kontrol
-T.C. kimlik numarasını geliştirme algoritması temelinde kontrol ediyor
+T.C. kimlik numarasını geliştirme algoritması temelinde kontrol ediyor... Demo: https://codign.github.io/TC-Kimlik-Kontrol/index.html
 
 Fatih Hayrioğlu'nun 2007 yılında paylaştığı [Javascript ile TC kimlik no doğrulama](https://fatihhayrioglu.com/javascript-ile-tc-kimlik-no-dogrulama/) adlı içeriğe denk geldim. Kullanmadan önce yorumları okuduğumda yetersiz kaldığını gördüm. Hazırcılığımı bırakıp bazı noktalarda düzenleme yapmak istedim... Çalışsın yeter!
 Wikipedia da yer alan [T.C. Kimlik Numarası](https://tr.wikipedia.org/wiki/T.C._Kimlik_Numaras%C4%B1) başlıklı yazıdan T.C. kimlik numarasının özellikleri öğrendim. İlk linkteki içeriği aşağıdaki gibi güncelledim...
